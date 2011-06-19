@@ -1,0 +1,48 @@
+body {
+	font-size:90%;
+}
+h1, h2, h3, h4, h5 {
+	font-family:"Helvetica Neue",Helvetica,Arial,Verdana,sans-serif;
+	color:#3F3F38;
+}
+h1 {
+	font-size:50px;
+	font-weight:700;
+	letter-spacing:-1px;
+	line-height:40px;
+}
+h2 {
+	font-size: 25px;
+    font-weight: bold;
+}
+h1, h2 {
+    text-shadow: 1px 1px 0 #FFFFFF;
+}
+.label_right label {
+	float: right;
+    font-size: 18px;
+    margin: 0.5em 0.25em;
+}
+.error_class input, .error_class .thebigreasonSkin table.mceLayout, .error_class select {
+	border:1px solid #FBC2C4;
+}
+.txt_center {
+	text-align:center;
+}
+/* Misc */
+.highlight {
+	background-color: #FFFFCC;
+    color: #333333;
+    line-height: 1.4;
+    padding: 3px;
+}
+
+/* Header */
+header {
+	margin:50px 0 50px;
+}
+
+/* Main Content Area */
+.main_content {
+	min-height:300px;
+}

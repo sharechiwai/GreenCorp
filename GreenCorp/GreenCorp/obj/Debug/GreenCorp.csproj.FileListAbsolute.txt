@@ -1,0 +1,7 @@
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\bin\GreenCorp.dll
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\bin\GreenCorp.pdb
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\bin\EntityFramework.dll
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\bin\EntityFramework.xml
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\GreenCorp.dll
+D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\GreenCorp.pdb
