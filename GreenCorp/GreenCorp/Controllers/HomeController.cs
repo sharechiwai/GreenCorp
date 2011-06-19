@@ -16,5 +16,11 @@ namespace GreenCorp.Controllers
             return View();
         }
 
+        public ActionResult bp()
+        {
+            return View();
+        }
+
+        
     }
 }

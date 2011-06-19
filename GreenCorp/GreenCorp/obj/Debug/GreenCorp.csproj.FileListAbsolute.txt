@@ -5,3 +5,10 @@ D:\Document\VS2010\MVC\GreenCorp\GreenCorp\bin\EntityFramework.xml
 D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\ResolveAssemblyReference.cache
 D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\GreenCorp.dll
 D:\Document\VS2010\MVC\GreenCorp\GreenCorp\obj\Debug\GreenCorp.pdb
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\bin\GreenCorp.dll
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\bin\GreenCorp.pdb
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\bin\EntityFramework.dll
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\bin\EntityFramework.xml
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\obj\Debug\ResolveAssemblyReference.cache
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\obj\Debug\GreenCorp.dll
+D:\Document\Development\HActivate2011\GreenCorp\GreenCorp\obj\Debug\GreenCorp.pdb
